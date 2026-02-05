@@ -1,0 +1,6 @@
+Priority: Single select → High / Medium / Low
+Category: Single select → English / Git / Goal / Life / Health
+Due: Date
+Effort: Number (単位: hours)
+Progress: Number (0-100)
+Review: Date (次回見直し日)
